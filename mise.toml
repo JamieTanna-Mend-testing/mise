@@ -1,4 +1,4 @@
 [tools]
-bosh-backup-and-restore = "1.5.1"
+bosh-backup-and-restore = "1.9.78"
 # has special versioning
 jq = "1.7"
