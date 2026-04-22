@@ -1,2 +1,4 @@
 [tools]
 bosh-backup-and-restore = "1.5.1"
+# has special versioning
+jq = "1.7"
